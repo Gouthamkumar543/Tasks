@@ -1,0 +1,29 @@
+.div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.p{
+    width: 33.33%;
+    height: auto;
+}
+.p1{
+    background-color: red;
+}
+.p2{
+    background-color: green;
+}
+.p3{
+    background-color: lightblue;
+}
+.p4{
+    background-color: aqua;
+    flex-basis: 100%;
+}
+.p5{
+    width: 50%;
+    background-color: orange;
+}
+.p6{
+    width: 50%;
+    background-color: palevioletred;
+}

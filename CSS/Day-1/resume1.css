@@ -1,0 +1,8 @@
+h2{background-color: aqua; font-size: 50px; font-style: italic;}
+pre#sec1{background-color: chartreuse; font-size: 20px;}
+h3{background-color: bisque; font-size: 45px; font-style: italic;}
+pre#sec2{background-color: rgb(122, 111, 218); font-size: 20px;}
+b#abc,ul{background-color: darkcyan; font-size: 20px;}
+b, p{background-color: orange; font-size: 20px;}
+pre#sec3{background-color: rgb(230, 28, 44); font-size: 20px;}
+pre#sec4{background-color: rgb(8, 109, 13); font-size: 20px;}

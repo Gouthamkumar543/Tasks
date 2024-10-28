@@ -1,0 +1,90 @@
+section#sec1{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XIzTw7Ay1sqNCLymvZVmIQhIBChUukBSvA&s");
+    background-size: 33%;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+p#sec1{
+    text-shadow: 5px 5px 5px white;
+    text-align: right;
+    color: aliceblue;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+p#sec2{
+    text-shadow: 5px 5px 5px white;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    text-transform: lowercase;
+}
+p#sec3{
+    text-shadow: 5px 5px 5px white;
+    text-align: left;
+    color: aliceblue;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+section#sec2{
+    display: inline-block;
+    background-color: orange;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+}
+div.box{
+    background: linear-gradient(to bottom right,rgb(50, 136, 170),rgb(154, 206, 230),rgb(126, 122, 122));
+    display: inline-block;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+}
+div.box1{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(248, 252, 253);
+    text-align: center;
+    color: rgb(127, 193, 247);
+    position: relative;
+    top: 20PX;
+    left: 40%;
+}
+div.box2{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(248, 245, 245);
+    text-align: center;
+    color: rgb(127, 193, 247);
+    position: relative;
+    left: 40%;
+}
+div.box3{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(250, 245, 245);
+    text-align: center;
+    color: rgb(127, 193, 247);
+    position: relative;
+    left: 40%;
+    bottom: 20px;
+}
+img{
+    width: 200px;
+    height: 175px;
+    right: 50%;
+}
+b{
+    font-size: 30px;
+}
+linearGradient{
+    color: red
+}

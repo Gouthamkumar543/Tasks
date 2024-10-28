@@ -1,0 +1,8 @@
+*{background-color: black;}
+p{background-color: blue; color: whitesmoke; font-size: 30px; font-style: italic;}
+h2#sec1{background-color:rgb(255, 0, 13);color: rgb(42, 223, 236);font-size: 50px; font-style: italic;}
+h2#sec2{background-color:rgb(36, 201, 77);color: rgb(64, 9, 192);font-size: 50px; font-style: oblique;}
+#sec1{background-color: rgb(236, 208, 50);}
+#sec2{background-color: rgb(80, 20, 220);}
+#sec3{background-color: rgb(93, 170, 118);} 
+section img{width: 500px;}
